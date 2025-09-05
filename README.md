@@ -1,2 +1,13 @@
-# chatbot
-ChatBot criado para fins estudantis.
+# Chatbot de Atendimento ao Cliente de Banco
+
+Este é um projeto de um chatbot para simular o atendimento ao cliente de um banco. Ele oferece assistência para as seguintes áreas: Pix, Cartão, Conta e Empréstimo.
+
+## Funcionalidades
+- Atendimento 24/7
+- Opções de personalidade para o chatbot
+- Informações sobre serviços bancários básicos
+
+## Como rodar o projeto
+1. Clone este repositório.
+2. Instale as dependências (se houver).
+3. Execute o script principal.
