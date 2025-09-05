@@ -125,4 +125,7 @@ while True:
         break
 
     else:
+
         print("Ainda não possuímos resposta para essa pergunta.Pedimos perdão pelo transtorno. Por favor, selecione outra opção ou digite '0' para sair.")
+
+# adicionar arquivo .txt ao colab e visual code
