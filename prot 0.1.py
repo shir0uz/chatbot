@@ -26,7 +26,7 @@ while True:
         if pergunta == '1':     # identificação do arquivo txt conta baseado na escolha do usuário
             file_path = os.path.join(os.path.dirname(__file__), 'srbotpix.txt')   # local do arquivo
             with open(file_path, 'r', encoding='utf-8') as f:   # extrai o conteúdo do arquivo
-                conteudo = f.readlines()       #leitura do arquivo txt
+                conteudo = f.readlines()       # leitura de cada linha do arquivo txt
                 print(conteudo[2], "\n") # pergunta 1
                 continue
         if pergunta == '2':     
@@ -129,3 +129,4 @@ while True:
         print("Ainda não possuímos resposta para essa pergunta.Pedimos perdão pelo transtorno. Por favor, selecione outra opção ou digite '0' para sair.")
 
 # adicionar arquivo .txt ao colab e visual code
+
