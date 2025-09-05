@@ -13,3 +13,6 @@ Este é um projeto de um chatbot para simular o atendimento ao cliente de um ban
 1. Clone este repositório.
 2. Instale as dependências (se houver).
 3. Execute o script principal.
+
+# SLIDE DO PROJETO 
+https://www.canva.com/design/DAGx927K_qg/OZgKapqponZyWCsQPt3P1w/edit?utm_content=DAGx927K_qg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
