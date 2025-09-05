@@ -1,5 +1,5 @@
 # Chatbot de Atendimento ao Cliente de Banco
-
+### TEMA DO CHATBOT
 Este é um projeto de um chatbot para simular o atendimento ao cliente de um banco. O ChatBot Banco X é um assistente virtual desenvolvido para responder dúvidas frequentes de clientes de forma simples, rápida e personalizada. Ele oferece suporte em quatro áreas principais: Pix, Cartão, Conta e Empréstimo, fornecendo orientações práticas para cada serviço. O bot foi projetado para funcionar em interface de terminal, lendo suas perguntas e retornando respostas baseadas em um arquivo de conhecimento. Dessa forma, simula o atendimento bancário automatizado.
 
 ## Funcionalidades
