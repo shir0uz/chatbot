@@ -4,8 +4,10 @@ Este é um projeto de um chatbot para simular o atendimento ao cliente de um ban
 
 ## Funcionalidades
 - Atendimento 24/7
-- Opções de personalidade para o chatbot
+- Personalidades variadas
 - Informações sobre serviços bancários básicos
+- Salvar histórico de conversas
+- Respostas variadas a depender do problema especificado
 
 ## Como rodar o projeto
 1. Clone este repositório.
